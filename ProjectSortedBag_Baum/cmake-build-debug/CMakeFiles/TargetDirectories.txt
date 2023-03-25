@@ -1,0 +1,3 @@
+C:/Users/Emese/Documents/1CV/C++/DSA/ProjectSortedBag_Baum/cmake-build-debug/CMakeFiles/ProjectSortedBag_Baum.dir
+C:/Users/Emese/Documents/1CV/C++/DSA/ProjectSortedBag_Baum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emese/Documents/1CV/C++/DSA/ProjectSortedBag_Baum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
